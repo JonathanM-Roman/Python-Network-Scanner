@@ -2,6 +2,10 @@
 ### **Description**
 A Python script that scans for active devices on a local network and detects open ports. Useful for cybersecurity testing and network administration.
 
+## ScreenShot
+![python-network-scanner](screenshots/python-network-scanner.png)
+
+
 ### **Tech Stack**
 - Python
 - Scapy
